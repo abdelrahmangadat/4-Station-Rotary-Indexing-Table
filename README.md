@@ -38,6 +38,12 @@ Using SOLIDWORKS motion anlysis, The kinematic behaviour of the Geneva Drive and
 
 ### Motion of The Geneva Drive
 https://github.com/user-attachments/assets/0b5af467-1cb4-4b63-8faf-28a9bfcf54f7
+
+### Angular Velocity of Driven Wheel over time
+
+<img width="1661" height="581" alt="angularvelo" src="https://github.com/user-attachments/assets/965742b0-7fd2-4ef8-9a9f-1db9f6e0a7ad" />
+
+
 ### Motion of the Assembly line
 https://github.com/user-attachments/assets/5d110d37-7c5f-4fa5-9e76-6a1e87553190
 
