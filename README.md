@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/0b5af467-1cb4-4b63-8faf-28a9bfcf54f7
 https://github.com/user-attachments/assets/5d110d37-7c5f-4fa5-9e76-6a1e87553190
 
 ## ✅ Conclusion
-The development of the 4-Station Rotary Indexing Table served as a demonstrated an industrial application of The Geneve Mechanism, bridging theoretical mechanical principles with modern digital engineering workflows. This Project focused on: 
+The development of the 4-Station Rotary Indexing Table served as a demonstrated industrial application of The Geneve Mechanism, bridging theoretical mechanical principles with modern digital engineering workflows. This Project focused on: 
 * Mechanical Design & Geometry by applying precise geometric constraints to ensure smooth mechanical engagement, specifically focusing on tangential pin entry to minimize impact stresses.
 * Kinematic Motion Analysis, ḷeveraging CAD simulation tools to analyze the intermittent motion profiles.
 * Using simulation to validate mechanical reliability and efficiency before physical prototyping.
