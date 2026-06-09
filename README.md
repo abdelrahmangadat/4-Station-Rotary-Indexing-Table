@@ -4,7 +4,6 @@
 
 CAD modeling, and kinematic simulation of **4-Station-Rotary-Indexing-Table**, focusing on the usage of the **Geneva Mechanism** in industrial applications while exploring the origins of the mechanism.
 
-2. Historical Context & Logic
 
 ## 1. The Geneva Mechanism 
 
